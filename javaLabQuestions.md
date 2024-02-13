@@ -65,3 +65,13 @@
     b. Write a java program to find x^y, and maximum of x and y using inbuilt Math class function. _(Feb 9)_
 
 ---
+
+10. a. Write a java program to display multiplication table for n numbers of rows and columns as follows: _(Feb 13)_
+
+        1   2   3   4   .   .   n
+        2   4   6   8   
+        3   6   9   12  
+        4   8   12  16  
+        .  
+        .
+        n
