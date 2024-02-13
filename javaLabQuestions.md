@@ -60,9 +60,9 @@
 
 ---
 
-9.  a. Write a java program to find square root, and logrithm using inbuilt Math class function. _(Feb 9)_
+9.  a. Write a java program to find square root, and logarithm using inbuilt Math class function. _(Feb 9)_
 
-    b. Write a java program to find x^y, and maximum of x and y using inbuilt Math class function. _(Feb 9)_
+    b. Write a java program to find $x^y$, and maximum of x and y using inbuilt Math class function. _(Feb 9)_
 
 ---
 
