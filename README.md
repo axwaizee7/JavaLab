@@ -75,3 +75,4 @@
         .  
         .
         n
+    b. Write a java program to find power of $2^n$. _(feb 14)_
