@@ -75,4 +75,11 @@
         .  
         .
         n
-    b. Write a java program to find power of $2^n$. _(feb 14)_
+    b. Write a java program to find power of $2^n$. _(Feb 14)_
+
+
+--- 
+
+11. a. Writw a program to find reverse of an integer number. _(Feb 20)_
+
+---
