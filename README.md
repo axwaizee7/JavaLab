@@ -83,3 +83,5 @@
 11. a. Writw a program to find reverse of an integer number. _(Feb 20)_
 
 ---
+
+12. b. Write a java program by defining a class Rectangle with 2 methods getdata() and rectArea() and instantiate with an object to find area of a Rectangle. _(Feb 21)_
