@@ -85,3 +85,7 @@
 ---
 
 12. b. Write a java program by defining a class Rectangle with 2 methods getdata() and rectArea() and instantiate with an object to find area of a Rectangle. _(Feb 21)_
+
+---
+
+13. a. Write a java program to define a class Rectangle to calculate area of a rectangle and use constructor. _(Feb 23)_
