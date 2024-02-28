@@ -89,3 +89,13 @@
 ---
 
 13. a. Write a java program to define a class Rectangle to calculate area of a rectangle and use constructor. _(Feb 23)_
+
+---
+
+14. a. Write a java program by defining a class Arithmetic_operator with methods add(), multiplication(),
+division() and substraction() for two variables. _(Feb 27)_
+
+---
+
+15. a. Write a java program with class Employee
+and its members emp_details() and salary(), name, emp_id, address, salary. Display the details and salary of three employee. _(Feb 27)_
