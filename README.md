@@ -99,3 +99,7 @@ division() and substraction() for two variables. _(Feb 27)_
 
 15. a. Write a java program with class Employee
 and its members emp_details() and salary(), name, emp_id, address, salary. Display the details and salary of three employee. _(Feb 27)_
+
+---
+
+16. a. Define a class Room with method area() and another class Bedroom with extending the feature of Room class, along with a method volume(). Calculate area volume of a room by performing simple single Inheritance. _(Feb 28)_
