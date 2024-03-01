@@ -107,3 +107,7 @@ and its members emp_details() and salary(), name, emp_id, address, salary. Displ
 ---
 
 17. a. Write a java program to find biggest of two numbers by nesting of methods. _(March 1)_  
+
+---
+
+18. a. Write a java program to find the area of a square and rectangle by overloading constructor method. _(March 1)_
