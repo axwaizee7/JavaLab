@@ -111,3 +111,7 @@ and its members emp_details() and salary(), name, emp_id, address, salary. Displ
 ---
 
 18. a. Write a java program to find the area of a square and rectangle by overloading constructor method. _(March 1)_
+
+---
+
+19. a. Write a java program to show the use of methods overriding. By defining a class super with method display() and a subclass sub with method display(). _(March 5)_
