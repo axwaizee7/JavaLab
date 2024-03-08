@@ -115,3 +115,7 @@ and its members emp_details() and salary(), name, emp_id, address, salary. Displ
 ---
 
 19. a. Write a java program to show the use of methods overriding. By defining a class super with method display() and a subclass sub with method display(). _(March 5)_
+
+---
+
+20. a. write a java program to overload a method area for finding out area of a square, rectangle and circle. _(March 8)_
