@@ -118,4 +118,18 @@ and its members emp_details() and salary(), name, emp_id, address, salary. Displ
 
 ---
 
-20. a. write a java program to overload a method area for finding out area of a square, rectangle and circle. _(March 8)_
+20. a. Write a java program to overload a method area for finding out area of a square, rectangle and circle. _(March 8)_
+
+---
+
+21. a. Define a class Employee with member variables employee_no, name, address and a constructor method and another class Worker with data members no_of_hours and a constructor method. Perform required inheritance and display employee workers details (atleast 3 workers details).
+
+    ```java
+    class Employee{
+
+    }
+
+    class Worker extends Employee{
+
+    }
+    ```
