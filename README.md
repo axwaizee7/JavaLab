@@ -122,7 +122,7 @@ and its members emp_details() and salary(), name, emp_id, address, salary. Displ
 
 ---
 
-21. a. Define a class Employee with member variables employee_no, name, address and a constructor method and another class Worker with data members no_of_hours and a constructor method. Perform required inheritance and display employee workers details (atleast 3 workers details).
+21. a. Define a class Employee with member variables employee_no, name, address and a constructor method and another class Worker with data members no_of_hours and a constructor method. Perform required inheritance and display employee workers details (atleast 3 workers details). _(March 12)_
 
     ```java
     class Employee{
@@ -133,3 +133,7 @@ and its members emp_details() and salary(), name, emp_id, address, salary. Displ
 
     }
     ```
+
+---
+
+22. b. Write a java program by defining an interface Area and two classes Rectangle and Circle to implement it for finding area of a Circle and a Rectangle. _(March 12)_

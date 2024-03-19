@@ -7,7 +7,6 @@ class Employee {
         this.name = name;
         this.address = address;
     }
-
 }
 
 class Worker extends Employee {
