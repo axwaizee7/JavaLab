@@ -136,4 +136,8 @@ and its members emp_details() and salary(), name, emp_id, address, salary. Displ
 
 ---
 
-22. b. Write a java program by defining an interface Area and two classes Rectangle and Circle to implement it for finding area of a Circle and a Rectangle. _(March 12)_
+22. a. Write a java program by defining an interface Area and two classes Rectangle and Circle to implement it for finding area of a Circle and a Rectangle. _(March 12)_
+
+---
+
+23. a. Write a program to show how the concept of multiple inheritance can be illustrated in java using interface. _(March 20)_
