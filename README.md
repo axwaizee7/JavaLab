@@ -141,3 +141,13 @@ and its members emp_details() and salary(), name, emp_id, address, salary. Displ
 ---
 
 23. a. Write a program to show how the concept of multiple inheritance can be illustrated in java using interface. _(March 20)_
+
+---
+
+24. _(Will be done later)_
+
+---
+
+25. a. Sort an array in descending order.
+
+    b. Read an array of n elements and calculate average of the elements.
