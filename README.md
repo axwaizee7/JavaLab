@@ -80,7 +80,7 @@
 
 --- 
 
-11. a. Writw a program to find reverse of an integer number. _(Feb 20)_
+11. a. Write a program to find reverse of an integer number. _(Feb 20)_
 
 ---
 
