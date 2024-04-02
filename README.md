@@ -144,7 +144,7 @@ and its members emp_details() and salary(), name, emp_id, address, salary. Displ
 
 ---
 
-24. _(Will be done later)_
+24. Write a program to show method overriding by defining a class Figure with method area(), constructor and a sub class Rectangle with another method area() for finding area of a rectangle. Override the method area() in Figure class. _(April 2)_
 
 ---
 

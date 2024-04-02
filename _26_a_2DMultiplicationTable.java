@@ -8,7 +8,7 @@ class _26_a_2DMultiplicationTable {
         for (i = 1; i <= row; i++) {
             for (j = 1; j <= column; j++) {
                 product[i - 1][j - 1] = i * j;
-                System.out.printf("%4d",(product[i - 1][j - 1]));
+                System.out.printf("%4d", (product[i - 1][j - 1]));
             }
             System.out.println(" ");
         }
