@@ -13,7 +13,7 @@ class Arithmetic_operator {
         return num1 / num2;
     }
 
-    float substraction(float num1, float num2) {
+    float subtraction(float num1, float num2) {
         return num1 - num2;
     }
 }
@@ -22,7 +22,7 @@ class _14_a_arithmeticOperatorClass {
     public static void main(String[] args) {
         Scanner s = new Scanner(System.in);
         
-        float n1, n2, ad, mul, div, subs;
+        float n1, n2, ad, mul, div, sub;
         
         System.out.print("Enter first operand: ");
         n1 = s.nextFloat();
@@ -35,11 +35,11 @@ class _14_a_arithmeticOperatorClass {
         ad = Ao.add(n1, n2);
         mul = Ao.multiplication(n1, n2);
         div = Ao.division(n1, n2);
-        subs = Ao.substraction(n1, n2);
+        sub = Ao.subtraction(n1, n2);
         
         System.out.println("Add: " + ad);
         System.out.println("Multiplication: " + mul);
         System.out.println("Division: " + div);
-        System.out.println("Substraction: " + subs);
+        System.out.println("Subtraction: " + sub);
     }
 }

@@ -84,7 +84,7 @@
 
 ---
 
-12. b. Write a java program by defining a class Rectangle with 2 methods getdata() and rectArea() and instantiate with an object to find area of a Rectangle. _(Feb 21)_
+12. a. Write a java program by defining a class Rectangle with 2 methods getdata() and rectArea() and instantiate with an object to find area of a Rectangle. _(Feb 21)_
 
 ---
 
@@ -93,7 +93,7 @@
 ---
 
 14. a. Write a java program by defining a class Arithmetic_operator with methods add(), multiplication(),
-division() and substraction() for two variables. _(Feb 27)_
+division() and subtraction() for two variables. _(Feb 27)_
 
 ---
 
