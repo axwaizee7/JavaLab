@@ -12,10 +12,14 @@ class Area {
     }
 }
 
-class _20_a_overloadingAreaOfSquareRectangleCircle{
+class _20_a_overloadingAreaOfSquareRectangleCircle {
     public static void main(String[] args) {
         Area a = new Area();
-        double square_area = a.area(7);
-        System.out.println(square_area);
+        int square_area = a.area(7);
+        int rect_area = a.area(7, 14);
+        double circle_area = a.area(7.8);
+        System.out.println("Area of Square: " + square_area);
+        System.out.println("Area of Rectangle: " + rect_area);
+        System.out.println("Area of Square: " + circle_area);
     }
 }
