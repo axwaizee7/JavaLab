@@ -144,7 +144,7 @@ and its members emp_details() and salary(), name, emp_id, address, salary. Displ
 
 ---
 
-24. Write a program to show method overriding by defining a class Figure with method area(), constructor and a sub class Rectangle with another method area() for finding area of a rectangle. Override the method area() in Figure class. _(April 2)_
+24. a. Write a program to show method overriding by defining a class Figure with method area(), constructor and a sub class Rectangle with another method area() for finding area of a rectangle. Override the method area() in Figure class. _(April 2)_
 
 ---
 
@@ -166,3 +166,18 @@ and its members emp_details() and salary(), name, emp_id, address, salary. Displ
           8  16  24  32  40  48  56  64  72  80
           9  18  27  36  45  54  63  72  81  90
          10  20  30  40  50  60  70  80  90 100
+
+---
+
+27. a. Create the java packages as follows _(April 10)_
+
+        pack1/                  pack2/
+        |                       |
+        |--- class A            |--- class X
+        |--- class B            |--- class Y
+        |--- pack3/             
+        |    |
+        |    |--- class E
+        |    |--- class D
+        
+        
