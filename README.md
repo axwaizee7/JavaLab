@@ -148,13 +148,13 @@ and its members emp_details() and salary(), name, emp_id, address, salary. Displ
 
 ---
 
-25. a. Sort an array in descending order.
+25. a. Sort an array in descending order. _(April 9)_
 
-    b. Read an array of n elements and calculate average of the elements.
+    b. Read an array of n elements and calculate average of the elements. _(April 3)_
 
 ---
 
-26. a. Write a java program to display two dimensional multiplication table as follows:
+26. a. Write a java program to display two dimensional multiplication table as follows: _(April 9)_
 
           1   2   3   4   5   6   7   8   9  10
           2   4   6   8  10  12  14  16  18  20
